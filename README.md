@@ -1,8 +1,9 @@
 # Amigo Secreto 🎁
 
 
-Projeto em JavaScript, HTML e CSS para criar uma 
-lista de amigos e sortear aleatoriamente um nome da lista. 
+> 📓 Projeto em JavaScript, HTML e CSS para criar uma
+lista de amigos e sortear aleatoriamente um nome da lista.
+[Alura](https://www.alura.com.br)
 
 
 ## 💡 Funcionalidades 
@@ -32,4 +33,4 @@ lista de amigos e sortear aleatoriamente um nome da lista.
 
 - `index.html`: estrutura da página
 - `style.css`: estilos visuais 
-- `app.js`: lógica em JavaScript
+- `app.js`: lógica em JavaScript 
