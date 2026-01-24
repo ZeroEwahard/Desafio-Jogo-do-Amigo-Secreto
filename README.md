@@ -3,7 +3,8 @@
 
 > 📓 Projeto em JavaScript, HTML e CSS para criar uma
 lista de amigos e sortear aleatoriamente um nome da lista.
-[Alura](https://www.alura.com.br)
+#Alura
+#Oracle
 
 
 ## 💡 Funcionalidades 
