@@ -24,10 +24,10 @@ lista de amigos e sortear aleatoriamente um nome da lista.
 
 ## ➡️ Como usar
 
-1- Digite o nome de um amigo no campo de entrada 
-2- Clique em **"Adicionar"**
-3- Após adicionar todos, clique em **"Sortear"**
-4- O nome sorteador aparecerá abaixo 
+1. Digite o nome de um amigo no campo de entrada
+2. Clique em **"Adicionar"**
+3. Após adicionar todos, clique em **"Sortear"**
+4. O nome sorteador aparecerá abaixo 
 
 
 ## 📁 Arquivos principais 
