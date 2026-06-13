@@ -10,7 +10,7 @@ Projeto em JavaScript, HTML e CSS para criar uma lista de amigos e sortear aleat
 <table>
  <tr>
   <td>
-   <img src="/Desafio-challenge-amigo-secreto_pt-main/assets/digitando-amigos.png"/>
+   <img src="assets/digitando-amigos.png"/>
   </td>
 
   <td>
