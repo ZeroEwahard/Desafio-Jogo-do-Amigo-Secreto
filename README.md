@@ -1,8 +1,8 @@
 # Amigo Secreto 🎁
 
 
-> 📓 Projeto em JavaScript, HTML e CSS para criar uma
-lista de amigos e sortear aleatoriamente um nome da lista.
+## 📓 Descrição
+Projeto em JavaScript, HTML e CSS para criar uma lista de amigos e sortear aleatoriamente um nome da lista.
 #Alura
 #Oracle
 
