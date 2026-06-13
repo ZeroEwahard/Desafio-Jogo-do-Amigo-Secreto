@@ -16,11 +16,11 @@ Projeto em JavaScript, HTML e CSS para criar uma lista de amigos e sortear aleat
 
  <tr>
   <td>
-   <img src="assets/amigo-secreto1.png"/>
+   <img src="assets/amigo-escolhido1.png"/>
   </td>
 
   <td>
-   <img src="assets/amigo-secreto2.png"/>
+   <img src="assets/amigo-escolhido2.png"/>
   </td>
  </tr>
 </table>
