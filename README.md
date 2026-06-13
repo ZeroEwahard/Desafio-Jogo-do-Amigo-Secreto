@@ -9,22 +9,18 @@ Projeto em JavaScript, HTML e CSS para criar uma lista de amigos e sortear aleat
 
 <table>
  <tr>
-  <td>
+  <td colspan="2" align="center">
    <img src="assets/digitando-amigos.png"/>
-  </td>
-
-  <td>
-   <img src="/Front%20End/assets/Filtros.png"/>
   </td>
  </tr>
 
  <tr>
   <td>
-   <img src="/Front%20End/assets/Ficha-Técnica.png"/>
+   <img src="assets/amigo-secreto1.png"/>
   </td>
 
   <td>
-   <img src="/Front%20End/assets/Simulador.png"/>
+   <img src="assets/amigo-secreto2.png"/>
   </td>
  </tr>
 </table>
