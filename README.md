@@ -2,10 +2,32 @@
 
 
 ## 📓 Descrição
-Projeto em JavaScript, HTML e CSS para criar uma lista de amigos e sortear aleatoriamente um nome da lista.
-#Alura
-#Oracle
+Projeto em JavaScript, HTML e CSS para criar uma lista de amigos e sortear aleatoriamente um nome da lista. <br>
+#Alura #Oracle
 
+## 📸 Preview 
+
+<table>
+ <tr>
+  <td>
+   <img src="/Desafio-challenge-amigo-secreto_pt-main/assets/digitando-amigos.png"/>
+  </td>
+
+  <td>
+   <img src="/Front%20End/assets/Filtros.png"/>
+  </td>
+ </tr>
+
+ <tr>
+  <td>
+   <img src="/Front%20End/assets/Ficha-Técnica.png"/>
+  </td>
+
+  <td>
+   <img src="/Front%20End/assets/Simulador.png"/>
+  </td>
+ </tr>
+</table>
 
 ## 💡 Funcionalidades 
 
